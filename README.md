@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peter-Choah
 - This account is for mostly for work/studies related projects.
-- No public projects up here yet.
+- Just starting out my independent coding journey
 
 <!---
 Peter-Choah/Peter-Choah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
