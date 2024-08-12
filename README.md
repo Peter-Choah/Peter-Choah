@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peter-Choah
+- 👋 Hi, I’m Peter WSC
 - This account is for mostly for work/studies related projects.
 - Just starting out my independent coding journey
 
