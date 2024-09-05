@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Peter WSC
-- This account is for mostly for work/studies related projects.
-- Just starting out my independent coding journey
+- This account is for mostly for self studying or projects I have completed.
+
+- Currently working on C with the K&R book.
 
 <!---
 Peter-Choah/Peter-Choah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
